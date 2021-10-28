@@ -1,16 +1,13 @@
 # Proyecto Serenity JUnit 
 
-En este proyecto se encuentran diferentes escenarios de la pagina travelocity, estos estan codificados con el patron de diseño serenity implementando  gherkin 
+En este proyecto se encuentran diferentes escenarios del portal Wingo, estos estan codificados con el patron de diseño serenity implementando  gherkin 
 
 ## Descargar el codigo 
 
 Git:
 
-    git clone https://github.com/serenity-bdd/serenity-junit-starter.git
-    cd serenity-junit-starter
+    git clone https://github.com/anvo98/SerenityAutomationWingo.git    
 
-
-Or simply [download a zip](https://github.com/serenity-bdd/serenity-junit-starter/archive/master.zip) file.
 
 ## Use Maven
 
